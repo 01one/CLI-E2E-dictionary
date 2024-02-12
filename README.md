@@ -11,6 +11,3 @@ Additionally, I have developed a web version of the dictionary. You can check it
 - Data sourced from the Gutenberg Project
 - Code included for data parsing
 - Web version available
-
-## Usage
-Feel free to explore the dictionary data and utilize the code as needed. The web version provides a convenient interface for accessing the dictionary online.
