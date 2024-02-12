@@ -10,4 +10,3 @@ Additionally, I have developed a web version of the dictionary. You can check it
 - Full-scale English dictionary
 - Data sourced from the Gutenberg Project
 - Code included for data parsing
-- Web version available
