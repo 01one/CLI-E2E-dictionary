@@ -4,7 +4,7 @@ This repository includes a full-scale English dictionary. The data was sourced f
 
 I have written code to separate words and meanings into different lists, making it easier to access and manipulate the data. It has been a fun project, and I am excited to share the code.
 
-Additionally, I have developed a web version of the dictionary. You can check it out at [purnorup.com/dictionary](https://dictionary.purnorup.com). Thank you for your interest!
+Additionally, I have developed a web version of the dictionary. You can check it out at [dictionary.purnorup.com](https://dictionary.purnorup.com). Thank you for your interest!
 
 ## Features
 - Full-scale English dictionary
